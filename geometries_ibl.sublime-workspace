@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "geometries_ibl.xml",
+			"settings":
+			{
+				"buffer_size": 3671,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/PreTeXtual/PreTeXt.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					""
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Process PreTeXt to HTML"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Process PreTeXt to LaTeX"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Build latex-image images"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Build asymptote images"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Build sageplot images"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Fetch Youtube thumbnails (beta)"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Extract MyOpenMath problems (beta)"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Extract WeBWorK problems (beta)"
+				],
+				[
+					"Packages/PreTeXtual/PreTeXt.sublime-build",
+					"Update PreTeXt"
+				]
+			],
+			[
+				"Packages/PreTeXtual/PreTeXt.sublime-build",
+				"Process PreTeXt to HTML"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"initial",
+				"PreTeXtual: Initialize PreTeXt Vagrant"
+			],
+			[
+				"initia",
+				"PreTeXtual: Initialize PreTeXt Vagrant"
+			],
+			[
+				"initiali",
+				"PreTeXtual: Initialize PreTeXt Vagrant"
+			],
+			[
+				"list packa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Documents/kurse/math305/text"
+	],
+	"file_history":
+	[
+		"/D/Documents/kurse/math305/text/analytic.xml",
+		"/D/Documents/kurse/math305/text/concurrency.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-article/sample-article.xml",
+		"/D/Documents/kurse/math305/text/algebra.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/sets.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/integers.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/groups.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/cyclic.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/exercises/sets.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/exercises/integers.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/exercises/groups.xml",
+		"/C/Users/mafitch/xsltproc/mathbook/examples/sample-book/exercises/cyclic.xml",
+		"/D/Documents/kurse/math261/text/discrete_cs.xml",
+		"/D/Documents/kurse/math305/text/frontmatter.xml",
+		"/D/Documents/kurse/math305/text/bookinfo.xml",
+		"/D/Documents/kurse/math305/text/transform.xml",
+		"/D/Documents/kurse/math305/text/consistent.xml",
+		"/D/Documents/kurse/math305/text/symmetry.xml",
+		"/D/Documents/kurse/math305/text/projective.xml",
+		"/D/Documents/kurse/math305/text/complete.xml",
+		"/D/Documents/kurse/math305/text/euclideanpostulates.xml",
+		"/D/Documents/kurse/math305/text/hyperbolic.xml",
+		"/D/Documents/kurse/math305/text/glossary.xml",
+		"/D/Documents/kurse/math305/text/hyperbolic_thms.xml",
+		"/D/Documents/kurse/math305/text/perspectivity.xml",
+		"/D/Documents/kurse/math305/text/similarity.xml",
+		"/D/Documents/kurse/math305/text/axiomsSMSG.xml",
+		"/D/Documents/kurse/math305/text/superparallel.xml",
+		"/D/Documents/kurse/math305/text/model.xml",
+		"/D/Documents/kurse/math305/text/construction.xml",
+		"/D/Documents/kurse/math305/text/finite.xml",
+		"/D/Documents/kurse/math305/text/complete_finish.xml",
+		"/D/Documents/kurse/math305/text/triangles.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/sample-article/sample-article.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/sample-book/sets.xml",
+		"/C/Users/drmaf/AppData/Roaming/Sublime Text 3/Packages/User/Vagrant.sublime-settings",
+		"/D/PreTeXt/geometries-ibl/geometries_ibl.xml",
+		"/C/Users/drmaf/AppData/Roaming/Sublime Text 3/Packages/User/PreTeXtual.sublime-settings",
+		"/D/Documents/kurse/math305/text/geometries_ibl.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/sample-book/frontmatter.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/minimal/minimal.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/sample-book/sample-book.xml",
+		"/C/Users/drmaf/xsltproc/mathbook/examples/sample-book/bookinfo.xml"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<interactive",
+			"interactive",
+			"https://www.geogebra.org/m/D4s2v4ft",
+			"geogebra",
+			"\\end{problem}",
+			"\\begin{problem}",
+			"\\item",
+			"definition"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"</exercise>",
+			"<exercise>",
+			"<li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "geometries_ibl.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3671,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								926,
+								926
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PreTeXtual/PreTeXt.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 199.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "geometries_ibl.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,2 @@
+cd /d/Documents/kurse/math305/text/html/
+~/xsltproc/xsltproc.exe --xinclude ~/xsltproc/mathbook/xsl/mathbook-html.xsl ../geometries_ibl.xml
